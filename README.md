@@ -11,3 +11,4 @@ Nowa modyfikacja nr 1  w dniu 27.02
 Nowa modyfikacja nr 2 w dniu 27.02
 
 Nowa modyfikccja nr 3 w dniu 27.02
+zmodyfikowna przez przeglądarkę 27.02 jako nr 4
